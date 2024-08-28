@@ -1,0 +1,58 @@
+#form{
+	
+	
+	background-color:#FF7E00;
+	width: 270px;
+	height:490px;
+	border: 10px;
+	border-radius: 30px;
+	padding: 10px;
+	box-shadow: 0 8px 32px 0 rgba(1, 1, 1, 1.37);
+	
+	
+}
+
+#ffo{
+
+	margin-top:50px;
+
+}
+
+input{
+	border-radius: 5px;
+	height: 30px;
+	width: 200px;
+	font-family: arial;
+	font-size: 15px;
+}
+textarea{
+	border-radius: 5px;
+	height: 70px;
+	width: 200px;
+    font-family: arial;
+    font-size: 15px;
+
+}
+
+h1{
+
+	color: white;
+	font-family: arial;
+	font-size: 25px;
+}
+.buya{
+	width: 130px;
+	height: 40px;
+	background-color: blue;
+	color: white;
+}
+
+select{
+
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+	font-family: arial;
+	font-size: 15px;
+
+}
